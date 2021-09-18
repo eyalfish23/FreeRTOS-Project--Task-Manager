@@ -1,0 +1,9 @@
+﻿  main.c
+C:\RT_Concepts_Final_Project\main.c(98,9): warning C4013: 'printf' undefined; assuming extern returning int
+C:\RT_Concepts_Final_Project\main.c(139,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\RT_Concepts_Final_Project\main.c(209,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\RT_Concepts_Final_Project\main.c(215,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\RT_Concepts_Final_Project\main.c(221,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\RT_Concepts_Final_Project\main.c(227,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\RT_Concepts_Final_Project\main.c(195,6): warning C4101: 'received_code': unreferenced local variable
+  RT_Concepts_Final_Project.vcxproj -> C:\RT_Concepts_Final_Project\Debug\RT_Concepts_Final_Project.exe
